@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ayush Raj Prakash 👋
 
-<!--
-**ayush-raj-prakash/ayush-raj-prakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Learning Python & Software Development  
+💻 Passionate about building useful projects  
+📍 India
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python Programming
+- C Programming
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🐍 [Python Project](link) — short description
+
+## 📫 Contact
+- Email: ayushrajprakash2005@email.com
