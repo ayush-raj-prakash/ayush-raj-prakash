@@ -10,7 +10,7 @@
 - Git & GitHub
 
 ## 📂 Projects
-- 🐍 [Python Project](link) — short description
+- ✂️ [Rock Paper Scissor Game](https://github.com/ayush-raj-prakash/rock-paper-scissor-game) — Rock Paper Scissor Game with computer
 
 ## 📫 Contact
 - Email: ayushrajprakash2005@email.com
