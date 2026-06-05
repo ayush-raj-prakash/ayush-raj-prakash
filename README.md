@@ -8,6 +8,7 @@
 - Python Programming
 - C Programming
 - Git & GitHub
+- Web Development
 
 ## 📂 Projects
 - 🛒 [E-commerce Web App](https://github.com/ayush-raj-prakash/ecommerce-web-app) — Amazon-inspired e-commerce website built with HTML & CSS
