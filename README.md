@@ -16,7 +16,8 @@
 - ✂️ [Rock Paper Scissor Game](https://github.com/ayush-raj-prakash/rock-paper-scissor-game) — Rock Paper Scissor Game with computer
 - 📝 [To-Do List CLI](https://github.com/ayush-raj-prakash/to-do-list-cli) — Python CLI To-Do List App
 - 🔢 [Number Guessing Game](https://github.com/ayush-raj-prakash/number-guessing-game) — A fun command-line number guessing game built with Python
-- 🔐 [secure-password-generator](https://github.com/ayush-raj-prakash/secure-password-generator) — Python-based password generator,creates random & strong password
+- 🔐 [Secure Password Generator](https://github.com/ayush-raj-prakash/secure-password-generator) — Python-based password generator,creates random & strong password
+- 📝 [File Based Notes Manager](https://github.com/ayush-raj-prakash/file-based-notes-manager) — Allows users to write and read notes stored in a text file
 
 
 ## 📫 Contact
