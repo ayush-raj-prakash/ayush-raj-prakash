@@ -18,7 +18,7 @@
 - 🔢 [Number Guessing Game](https://github.com/ayush-raj-prakash/number-guessing-game) — A fun command-line number guessing game built with Python
 - 🔐 [Secure Password Generator](https://github.com/ayush-raj-prakash/secure-password-generator) — Python-based password generator,creates random & strong password
 - 📝 [File Based Notes Manager](https://github.com/ayush-raj-prakash/file-based-notes-manager) — Allows users to write and read notes stored in a text file
--  [Python Command-Line Calculator](https://github.com/ayush-raj-prakash/python-command-Line-calculator) — Performs basic arithmetic operations
+- 🧮 [Python Command-Line Calculator](https://github.com/ayush-raj-prakash/python-command-Line-calculator) — Performs basic arithmetic operations
 
 
 ## 📫 Contact
