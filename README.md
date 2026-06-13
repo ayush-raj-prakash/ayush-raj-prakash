@@ -11,6 +11,7 @@
 - Web Development
 
 ## 📂 Projects
+- 🤖 [Nova AI Assistant](https://github.com/ayush-raj-prakash/nova-ai-voice-assistant) — A smart, voice-activated AI assistant built with Python
 - 🛒 [E-commerce Web App](https://github.com/ayush-raj-prakash/ecommerce-web-app) — Amazon-inspired e-commerce website built with HTML & CSS
 - 🐍 [Python Quiz Game](https://github.com/ayush-raj-prakash/python-quiz-game-cli) — Python CLI Quiz Game
 - ✂️ [Rock Paper Scissor Game](https://github.com/ayush-raj-prakash/rock-paper-scissor-game) — Rock Paper Scissor Game with computer
@@ -19,6 +20,7 @@
 - 🔐 [Secure Password Generator](https://github.com/ayush-raj-prakash/secure-password-generator) — Python-based password generator,creates random & strong password
 - 📝 [File Based Notes Manager](https://github.com/ayush-raj-prakash/file-based-notes-manager) — Allows users to write and read notes stored in a text file
 - 🧮 [Python Command-Line Calculator](https://github.com/ayush-raj-prakash/python-command-Line-calculator) — Performs basic arithmetic operations
+
 
 
 ## 📫 Contact
