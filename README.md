@@ -22,6 +22,7 @@
 
 ## 📂 Web Development Projects
 - 🛒 [E-commerce Web App](https://github.com/ayush-raj-prakash/ecommerce-web-app) — Amazon-inspired e-commerce website built with HTML & CSS
+- ✂️ [Rock Paper Scissor Game](https://github.com/ayush-raj-prakash/rock-paper-scissor-game) — A fun & interactive Rock Paper Scissor game built with HTML,CSS & JS
 
 
 ## 📫 Contact
