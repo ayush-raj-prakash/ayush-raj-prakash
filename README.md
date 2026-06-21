@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Raj Prakash 👋
 
-🎓 Learning Python & Software Development  
+🎓 Learning Python & Web Development  
 💻 Passionate about building useful projects  
 📍 India
 
@@ -10,9 +10,8 @@
 - Git & GitHub
 - Web Development
 
-## 📂 Projects
+## 📂 Python Projects
 - 🤖 [Nova AI Assistant](https://github.com/ayush-raj-prakash/nova-ai-voice-assistant) — A smart, voice-activated AI assistant built with Python
-- 🛒 [E-commerce Web App](https://github.com/ayush-raj-prakash/ecommerce-web-app) — Amazon-inspired e-commerce website built with HTML & CSS
 - 🐍 [Python Quiz Game](https://github.com/ayush-raj-prakash/python-quiz-game-cli) — Python CLI Quiz Game
 - ✂️ [Rock Paper Scissor Game](https://github.com/ayush-raj-prakash/rock-paper-scissor-game) — Rock Paper Scissor Game with computer
 - 📝 [To-Do List CLI](https://github.com/ayush-raj-prakash/to-do-list-cli) — Python CLI To-Do List App
@@ -21,6 +20,8 @@
 - 📝 [File Based Notes Manager](https://github.com/ayush-raj-prakash/file-based-notes-manager) — Allows users to write and read notes stored in a text file
 - 🧮 [Python Command-Line Calculator](https://github.com/ayush-raj-prakash/python-command-Line-calculator) — Performs basic arithmetic operations
 
+## 📂 Web Development Projects
+- 🛒 [E-commerce Web App](https://github.com/ayush-raj-prakash/ecommerce-web-app) — Amazon-inspired e-commerce website built with HTML & CSS
 
 
 ## 📫 Contact
